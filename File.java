@@ -6,6 +6,5 @@ public class File {
         int x = 0;
 
         System.out.println("Hello world! ");
-        System.out.println("Num x: " + x);
     }
 }
