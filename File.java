@@ -14,7 +14,7 @@ public class File {
 
         System.out.println("Sum of 2 numbers: " + sum(10, 5));
 
-        x++;
+        System.out.println("Sum of 2 numbers: " + sum(110, 5));
 
     }
 }
