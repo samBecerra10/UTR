@@ -16,5 +16,7 @@ public class File {
 
         System.out.println("Sum of 2 numbers: " + sum(110, 21));
 
+        System.out.println("Sum of 2 numbers: " + sum(1, 21));
+
     }
 }
